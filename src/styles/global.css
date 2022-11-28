@@ -59,3 +59,19 @@ a {
   background-repeat: no-repeat;
   background-position: top;
 }
+
+.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.wave1{
+  position: relative;
+  top: -200px;
+}
+
+.wave2{
+  position: relative;
+  bottom: -200px;
+}
